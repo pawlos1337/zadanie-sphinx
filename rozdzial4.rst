@@ -12,6 +12,8 @@ W Ju 248 zastosowano skrzydła z Me 163B, ale kadłub został znacząco przeproj
     :align: center
     :alt: Junkers Ju 248 image 1
 
+    Ju 248
+
 Rozwój
 ---------------
 
@@ -22,3 +24,5 @@ Po wojnie Rosjanie kontynuowali rozwój Ju 248, a niektóre informacje mówią o
 .. figure:: /images/ju248-02.jpg
     :align: center
     :alt: Junkers Ju 248 image 2
+
+    I-270

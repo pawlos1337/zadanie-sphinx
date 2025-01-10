@@ -10,6 +10,10 @@ W styczniu 1925 roku Hugo Junkers, wspólnie z braćmi Flormanami, założył fi
 .. figure:: /images/ju87-01.jpg
     :align: center
     :alt: Junkers Ju 87 image 2
+    :width: 711px
+    :height: 469px
+
+    Ju 87 "Stuka"
 
 Ernst Udet
 --------------
@@ -20,6 +24,8 @@ W marcu 1936 roku odbyły się porównawcze testy różnych konstrukcji, w któr
 .. figure:: /images/ju87-02.jpg
     :align: center
     :alt: Junkers Ju 87 image 2
+
+    Ernst Udet
 
 Warianty
 -------------

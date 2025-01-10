@@ -11,6 +11,8 @@ W początkowej fazie rozwoju analizowano dwa główne projekty: Ju85 z podwójny
     :align: center
     :alt: Junkers Ju 88 image 1
 
+    Ju 88
+
 Rozwój
 --------------
 
@@ -20,6 +22,8 @@ Standardowa wersja bombowa to seria A, której produkcję rozpoczęto w 1938 rok
 .. figure:: /images/ju88-02.jpg
     :align: center
     :alt: Junkers Ju 88 image 2
+
+    Ju 88
 
 Warianty
 --------------

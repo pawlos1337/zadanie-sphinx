@@ -10,6 +10,10 @@ W 1895 roku Junkers opatentował nowoczesny piecyk, który dzięki systemowi pod
 .. figure:: /images/hugo-01.jpg
     :align: center
     :alt: Hugo Junkers image 1
+    :width: 600px
+    :height: 594px
+
+    Hugo Junkers
 
 Junkers był także pasjonatem blachy, co zaowocowało wieloma innowacjami, w tym pierwszym całkowicie metalowym samolocie – Junkers J 1 – w 1915 roku. Mimo że był zbyt ciężki, jego konstrukcja wyznaczyła nowy kierunek w lotnictwie. Junkers uruchomił także fabrykę silników lotniczych, a jego najsłynniejszym samolotem pasażerskim stał się Ju-52, zdolny do lotów nad Alpami.
 Jednak po dojściu nazistów do władzy, Junkers, będący pacyfistą, odmówił współpracy z reżimem, co doprowadziło do utraty wpływu na swoje przedsiębiorstwa. Fabryki zostały znacjonalizowane i zaczęły produkować samoloty wojskowe, w tym słynne bombowce Junkers-87, używane podczas II wojny światowej.
@@ -20,3 +24,5 @@ Hugo Junkers zmarł w 1935 roku w areszcie domowym, nie zdając sobie sprawy z d
     :alt: Hugo Junkers image 2
     :width: 440px
     :height: 684px
+
+    Hugo Junkers

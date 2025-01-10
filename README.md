@@ -1,9 +1,6 @@
 # Junkers Flugzeug- und Motorenwerke
-## Przygotował: Paweł Łosowski
 
-Dokument opisuje najbardziej znane niemieckie samoloty wojkowe firmy Junkers w latach 30-tych i 40-tych.
-
-
+Dokument przedstawia najbardziej znane niemieckie samoloty wojskowe firmy Junkers z lat 30-tych i 40-tych.
 
 Przygotował:
 Paweł Łosowski
