@@ -4,7 +4,7 @@
 Początki
 --------------
 
-Junkers Ju88 był jednym z dwóch projektów stworzonych w odpowiedzi na trzecie zapotrzebowanie RLM z 1935 roku na szybki samolot bombowy. Prace nad jego rozwojem rozpoczęto w styczniu 1936 roku, a projekt nosił oznaczenie EF59. Obok Ju88 powstawały również Henschel Hs127 i Messerschmitt Bf162.
+**Junkers Ju88** był jednym z dwóch projektów stworzonych w odpowiedzi na trzecie zapotrzebowanie RLM z 1935 roku na szybki samolot bombowy. Prace nad jego rozwojem rozpoczęto w styczniu 1936 roku, a projekt nosił oznaczenie EF59. Obok Ju88 powstawały również Henschel Hs127 i Messerschmitt Bf162.
 W początkowej fazie rozwoju analizowano dwa główne projekty: Ju85 z podwójnym ogonem oraz Ju88 z pojedynczym ogonem. Choć początkowo preferowany był Ju85, ostatecznie zdecydowano się na bardziej nowoczesny projekt Ju88. Budowa prototypu rozpoczęła się w maju 1936, a pierwszy lot Ju88V1 miał miejsce 21 grudnia 1936. Zbudowano pięć prototypów, z których trzy miały projekt skrzydeł i kadłuba z Ju85.
 
 .. figure:: /images/ju88-01.jpg
@@ -67,4 +67,3 @@ Serię S rozwijano od 1942 roku, gdy RLM zażądało poprawy prędkości bombowc
 **Wariant T**
 
 Seria T była wersją rozpoznawczą serii S. Produkcja na małą skalę rozpoczęła się w zakładach Henschel w Schönefeld jesienią 1944 roku, ale wkrótce została przerwana na rzecz modelu Messerschmitt Me410.
-

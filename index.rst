@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to Junkers Flugzeug- und Motorenwerke's documentation!
-==============================================================
+Junkers Flugzeug- und Motorenwerke
+===========================================
 
 .. toctree::
    :maxdepth: 2
@@ -15,13 +15,3 @@ Welcome to Junkers Flugzeug- und Motorenwerke's documentation!
    rozdzial3
    rozdzial4
    rozdzial5
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-
-
